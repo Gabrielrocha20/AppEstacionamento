@@ -1,0 +1,4 @@
+Para testar crie
+database = estacionamento
+tabela = vaga
+tabela = registros_gerais
